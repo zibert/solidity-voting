@@ -1,5 +1,9 @@
 # Voting Project
 
+# Install package
+
+npm i
+
 # Test
 
 npm run testWithCoverage<br />
