@@ -22,7 +22,7 @@ npx hardhat run --network localhost scripts/deploy.js
 
 ## rinkeby
 
-npm run deployLocal<br />
+npm run deployRinkeby<br />
 or<br />
 npx hardhat run --network rinkeby scripts/deploy.js<br />
 
