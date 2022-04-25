@@ -26,7 +26,7 @@ contract Vote {
         uint128 votedCount;
     }
 
-    mapping(uint64 => Voting) public votings;
+    mapping(uint64 => Voting) votings;
 
     constructor() {
         owner = msg.sender;
